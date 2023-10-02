@@ -7,7 +7,7 @@
 	        // Create a list
 	        List<String> myList = new ArrayList<>();
 	        myList.add("Hello");
-	        myList.add("World");
+	        myList.add("Selenium");
 	        myList.add("Java");
 	        
 	        // Convert the list to an array
